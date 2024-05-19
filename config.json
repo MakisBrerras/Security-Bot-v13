@@ -1,0 +1,8 @@
+{
+    "name": "Makaros",
+    "logo": "https://cdn.discordapp.com/attachments/1219990888487321661/1220249009700995082/logoPng.png?ex=663d0db3&is=663bbc33&hm=18fd8a2b0b6db9dcfe5c590e399f3e39bfd1dcd90ad570265e59331485b21f50&",
+    "color": "BLUE",
+    "token": "MTIzNDI0MDI3NDMxNDY5MDcyMQ.GxznjB.LlghDYKbK-WBPB8UEbbN5KTrhnLPzRvvIYI_28",
+    "database": "mongodb+srv://sergiosazoti66:azotisergios2504.@cluster0.nyv617x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "clientId": "1218189863216742444"
+}
